@@ -78,7 +78,6 @@ public class YahooFinanceDividend implements Comparable<YahooFinanceDividend>
 	/* (non-Javadoc)
 	 * @see java.lang.Comparable#compareTo(java.lang.Object)
 	 */
-	@Override
 	public int compareTo(YahooFinanceDividend rhs)
 	{
 		return m_date.compareTo(rhs.m_date);

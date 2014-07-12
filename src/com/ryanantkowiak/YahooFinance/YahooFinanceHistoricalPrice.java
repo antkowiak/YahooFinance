@@ -162,7 +162,6 @@ public class YahooFinanceHistoricalPrice implements Comparable<YahooFinanceHisto
 	/* (non-Javadoc)
 	 * @see java.lang.Comparable#compareTo(java.lang.Object)
 	 */
-	@Override
 	public int compareTo(YahooFinanceHistoricalPrice rhs)
 	{
 		return m_date.compareTo(rhs.m_date);

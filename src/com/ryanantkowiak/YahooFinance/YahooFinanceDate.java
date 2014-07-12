@@ -102,7 +102,6 @@ public class YahooFinanceDate implements Comparable<YahooFinanceDate>
 	/* (non-Javadoc)
 	 * @see java.lang.Comparable#compareTo(java.lang.Object)
 	 */
-	@Override
 	public int compareTo(YahooFinanceDate rhs)
 	{
 		// check for this object equaling rhs, and return zero

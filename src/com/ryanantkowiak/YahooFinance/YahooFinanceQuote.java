@@ -1219,7 +1219,6 @@ public class YahooFinanceQuote implements Comparable<YahooFinanceQuote>
     /* (non-Javadoc)
      * @see java.lang.Comparable#compareTo(java.lang.Object)
      */
-    @Override
     public int compareTo(YahooFinanceQuote rhs)
     {
         if (m_symbol.equals(rhs.m_symbol))
