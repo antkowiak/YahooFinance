@@ -1,10 +1,10 @@
 /*
- * Copyright (c) 2014 Ryan Antkowiak (antkowiak@gmail.com).
+ * Copyright (c) 2014 Ryan Antkowiak .
  * All rights reserved.
  * It is provided AS-IS, WITHOUT ANY WARRANTY either expressed or implied.
  * You may study, use, and modify it for any non-commercial purpose.
  * You may distribute it non-commercially as long as you retain this notice.
- * For a commercial use license, contact antkowiak@gmail.com.
+ * For a commercial use license, contact .
  */
 package com.ryanantkowiak.YahooFinance;
 
@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
 /**
  * Class that stores a historical price on a certain date by a symbol, from YahooFinance
  * 
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 public class YahooFinanceHistoricalPrice implements Comparable<YahooFinanceHistoricalPrice>

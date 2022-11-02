@@ -1,10 +1,10 @@
 /*
- * Copyright (c) 2014 Ryan Antkowiak (antkowiak@gmail.com).
+ * Copyright (c) 2014 Ryan Antkowiak .
  * All rights reserved.
  * It is provided AS-IS, WITHOUT ANY WARRANTY either expressed or implied.
  * You may study, use, and modify it for any non-commercial purpose.
  * You may distribute it non-commercially as long as you retain this notice.
- * For a commercial use license, contact antkowiak@gmail.com.
+ * For a commercial use license, contact .
  */
 package com.ryanantkowiak.YahooFinance;
 
@@ -16,7 +16,7 @@ import java.util.StringTokenizer;
 /**
  * Contains static methods to query for the symbols in the NASDAQ
  * 
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  */
 public class NASDAQ
 {
